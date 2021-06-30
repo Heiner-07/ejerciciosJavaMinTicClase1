@@ -8,7 +8,7 @@ public class ejercicio2 {
         int numero = sc.nextInt();
 
         int digitos = numeroDigitos(numero);
-        System.out.print("El número " + numero + " tiene " + digitos + " cifra(s)");
+        System.out.print("El numero " + numero + " tiene " + digitos + " cifra(s)");
     }
 
     public static int numeroDigitos(int numero) {
